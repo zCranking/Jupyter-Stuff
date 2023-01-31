@@ -1,4 +1,6 @@
 # Jupyter-Stuff
+## 8. 1/30/2023 - [Movie Data Stuff](https://github.com/zCranking/Jupyter-Stuff/tree/main/Movie%20Data%20Stuff)
+
 ## 7. 1/24/2023 - [BMI Data Stuff](https://github.com/zCranking/Jupyter-Stuff/tree/main/BMI%20Data%20Stuff)
 
 ## 6. 1/17/2023 - [Bush Fires](https://github.com/zCranking/Jupyter-Stuff/tree/main/Bush%20Fires)
