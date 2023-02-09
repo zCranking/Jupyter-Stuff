@@ -1,4 +1,6 @@
 # Jupyter-Stuff
+## 10. 2/8/2023 - [Titanic](https://github.com/zCranking/Jupyter-Stuff/tree/main/titanic)
+
 ## 9. 2/8/2023 - [Texas Temprature Stuff](https://github.com/zCranking/Jupyter-Stuff/tree/main/texas%20temprature%20stuff)
 
 ## 8. 1/30/2023 - [Movie Data Stuff](https://github.com/zCranking/Jupyter-Stuff/tree/main/Movie%20Data%20Stuff)
