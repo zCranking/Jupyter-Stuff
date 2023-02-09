@@ -1,4 +1,6 @@
 # Jupyter-Stuff
+## 9. 2/8/2023 - [Texas Temprature Stuff](https://github.com/zCranking/Jupyter-Stuff/tree/main/texas%20temprature%20stuff)
+
 ## 8. 1/30/2023 - [Movie Data Stuff](https://github.com/zCranking/Jupyter-Stuff/tree/main/Movie%20Data%20Stuff)
 
 ## 7. 1/24/2023 - [BMI Data Stuff](https://github.com/zCranking/Jupyter-Stuff/tree/main/BMI%20Data%20Stuff)
